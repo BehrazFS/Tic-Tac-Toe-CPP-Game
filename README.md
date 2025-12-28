@@ -10,6 +10,10 @@ A colorful, feature-rich implementation of the classic Tic-Tac-Toe game written 
 -  **Styled Graphics** - Unicode box drawing and special characters for an enhanced visual experience
 -  **Simple Controls** - Number keys 1-9 for moves, 'q' to quit and save
 
+## Pictures
+![1.png](./pictures/1.png)
+![2.png](./pictures/2.png)
+
 ## Requirements
 
 - **C++17 or higher** (uses fold expressions)
